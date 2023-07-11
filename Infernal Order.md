@@ -1,0 +1,1 @@
+An underground organization that wishes to release the seal on [[Malphos]].

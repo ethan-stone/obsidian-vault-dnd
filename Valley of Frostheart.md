@@ -1,0 +1,1 @@
+Frozen valley south west of [[Etheria]] and just outside of [[Celestria (Country)]] rule. Contains the underground city of [[Deephaven]].

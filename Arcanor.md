@@ -1,0 +1,1 @@
+King of [[Celestria (Country)]].
