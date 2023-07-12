@@ -9,7 +9,7 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Thieve's guild
 - Some sort of organized crime like the mafia
 # Possible Random Events
-- Royal guard raid. If they get captured they can pay a fine or spend the night in jail. If they fight back and still get captured they pay a bigger fine and spend a week in jail. If they fight back but don't kill anyone then they are wanted for 7 days. If you do kill someone and leave others a live there is a higher chance that the party is permanently wanted in the city and maybe even a bounty is put on there head. Give the guards humanity. They can be brothers.
+- Royal guard raid. If they get captured they can pay a fine or spend the night in jail. If they fight back and still get captured they pay a bigger fine and spend a week in jail. If they fight back but don't kill anyone then they are wanted for 7 days. If you do kill someone and leave others a live there is a higher chance that the party is permanently wanted in the city and maybe even a bounty is put on there head.
 	- Getting captured works by getting into combat and losing to non-lethal damage
 - [ ] Brainstorm what type of guards/police there are
 - [ ] Sword and board
