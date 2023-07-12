@@ -1,3 +1,8 @@
 Home of many taverns, prostitutes, and criminals. Exploitation is abundant so there is a lot of room to get involved in the business or to help people get out.
 
-# Possible 
+# Possible Activities and Paths
+## Illegal Activities
+- Prostitution
+- Going to a speakeasy
+- Participating in underground fighting ring
+## 
