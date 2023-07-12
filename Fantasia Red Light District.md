@@ -7,5 +7,6 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Take-down exploitative prostitution ring
 - Illegal gambling
 - Thieve's guild
+- Some sort of organized crime like the mafia
 # Possible Random Events
 - Speakeasy gets raided and needs to flee. If they get captured they can pay a fine or spend the night in jail. If they fight back and 
