@@ -1,3 +1,1 @@
 One of the main kingdoms on the continent of [[Orialis]]. Named after [[Celestria (Hero)]].
-
-test change

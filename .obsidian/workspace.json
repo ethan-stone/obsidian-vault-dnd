@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Country).md"
+                "file": "Fantasia.md"
               }
             }
           }
@@ -148,19 +148,19 @@
   },
   "active": "9a4e74fb4f0d6f0b",
   "lastOpenFiles": [
-    "Fantasia.md",
     "Etheria.md",
+    "Overview.md",
+    "Horns of Malphos.md",
+    "Helpful Tools.md",
+    "Celestria (Country).md",
+    "Celestria (Hero).md",
+    "Fantasia.md",
     "Deephaven.md",
     "Infernal Order.md",
-    "Horns of Malphos.md",
-    "Celestria (Hero).md",
-    "Celestria (Country).md",
     "Valley of Frostheart.md",
-    "Overview.md",
     "Orialis.md",
     "Ophira.md",
     "Malphos.md",
-    "Helpful Tools.md",
     "Arcanor.md"
   ]
 }
