@@ -8,4 +8,4 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Illegal gambling
 - Thieve's guild
 # Possible Random Events
-- Speakeasy gets raided and needs to flee. If they get
+- Speakeasy gets raided and needs to flee. If they get captured they either have to pay a fine or serve 
