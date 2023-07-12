@@ -8,4 +8,4 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Illegal gambling
 - Thieve's guild
 # Possible Random Events
-- Speakeasy gets raided and needs to flee. If they get captured they can pay a fine or spend the night in jail. If they fight back, regardless of if they kill the
+- Speakeasy gets raided and needs to flee. If they get captured they can pay a fine or spend the night in jail. If they fight back and 
