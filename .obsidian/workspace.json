@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abaeed2ba136351c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moonstone Casino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia.md",
+                "file": "Moonstone Casino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia.md",
+                "file": "Moonstone Casino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia.md"
+                "file": "Moonstone Casino.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a4e74fb4f0d6f0b",
+  "active": "abaeed2ba136351c",
   "lastOpenFiles": [
+    "Fantasia.md",
+    "Moonstone Casino.md",
     "Etheria.md",
     "Overview.md",
     "Horns of Malphos.md",
     "Helpful Tools.md",
     "Celestria (Country).md",
     "Celestria (Hero).md",
-    "Fantasia.md",
     "Deephaven.md",
     "Infernal Order.md",
     "Valley of Frostheart.md",
