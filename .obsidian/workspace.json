@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia Red Light District.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "73f89d172143eef7",
   "lastOpenFiles": [
+    "Malphos.md",
+    "Fantasia Red Light District.md",
     "Moonstone Casino.md",
     "Fantasia.md",
-    "Fantasia Red Light District.md",
     "Celestria (Hero).md",
     "Celestria (Country).md",
     "Etheria.md",
@@ -175,7 +176,6 @@
     "Valley of Frostheart.md",
     "Orialis.md",
     "Ophira.md",
-    "Malphos.md",
     "Arcanor.md"
   ]
 }

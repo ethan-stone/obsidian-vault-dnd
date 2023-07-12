@@ -15,4 +15,4 @@ If the players choose not to go back to the Valley of Frostheart there should be
     - A Las Vegas equivalent city or a red light district where they can play poker and get into some trouble
     - Venture to other kingdoms where they may encounter struggling villages they want to help
     - Work for the kingdom for either other search and rescues, or maybe to recover lost goods from bandits etc.
-    - Maybe a coliseum like place where you can enter to fight beasts or maybe it can be groups vs groups. Capture the flat!?
+    - Maybe a coliseum like place where you can enter to fight beasts or maybe it can be groups vs groups. Capture the flag?
