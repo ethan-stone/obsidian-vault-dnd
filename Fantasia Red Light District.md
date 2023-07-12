@@ -9,4 +9,4 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Thieve's guild
 - Some sort of organized crime like the mafia
 # Possible Random Events
-- Speakeasy gets raided and needs to flee. If they get captured they can pay a fine or spend the night in jail. If they fight back and 
+- Speakeasy gets raided and needs to flee. If they get captured they can pay a fine or spend the night in jail. If they fight back but don't kill anyone then they are wanted for 7 days.
