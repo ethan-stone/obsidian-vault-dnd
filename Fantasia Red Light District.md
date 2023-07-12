@@ -5,4 +5,7 @@ Home of many taverns, prostitutes, and criminals. Exploitation is abundant so th
 - Going to a speakeasy
 - Participating in underground fighting ring
 - Take-down exploitative prostitution ring
-- 
+- Illegal gambling
+- Thieve's guild
+# Possible Random Events
+- Speakeasy gets raided and needs to flee. If they get
