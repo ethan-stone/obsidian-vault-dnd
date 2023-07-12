@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abaeed2ba136351c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9937b9cd83ac29dc",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "73f89d172143eef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +148,13 @@
   },
   "active": "9937b9cd83ac29dc",
   "lastOpenFiles": [
-    "To-Do.md",
+    "Fantasia Red Light District.md",
     "Overview.md",
+    "Moonstone Casino.md",
+    "To-Do.md",
     "Malphos.md",
     "Fantasia.md",
     "Untitled",
-    "Fantasia Red Light District.md",
-    "Moonstone Casino.md",
     "Celestria (Hero).md",
     "Celestria (Country).md",
     "Etheria.md",
