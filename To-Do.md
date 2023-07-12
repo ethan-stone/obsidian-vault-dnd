@@ -1,1 +1,1 @@
-- [ ] Come up with some plot points and characters that can occur in Fantasia red light district. Maybe there 
+- [ ] Come up with some plot points and characters that can occur in Fantasia red light district. Maybe some speakeasies, an exploitative prostitution ring, 
