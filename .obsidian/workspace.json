@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Fantasia.md"
               }
             }
           }
@@ -159,16 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73f89d172143eef7",
+  "active": "abaeed2ba136351c",
   "lastOpenFiles": [
-    "Malphos.md",
+    "Overview.md",
     "Fantasia Red Light District.md",
+    "Malphos.md",
     "Moonstone Casino.md",
     "Fantasia.md",
     "Celestria (Hero).md",
     "Celestria (Country).md",
     "Etheria.md",
-    "Overview.md",
     "Horns of Malphos.md",
     "Helpful Tools.md",
     "Deephaven.md",
