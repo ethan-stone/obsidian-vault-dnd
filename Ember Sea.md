@@ -1,1 +1,1 @@
-Large body of water west of [[Valley of Frostheart]]. It was given the name because of the fairly active under water volcano producing scalding hot water in it's vicinity. The combination of the extremely warm water and the 
+Large body of water west of [[Valley of Frostheart]]. It was given the name because of the fairly active under water volcano producing scalding hot water in it's vicinity. The combination of the burning water and the frigid cold of the ] roduces deadly storms where the land and the water meet.
