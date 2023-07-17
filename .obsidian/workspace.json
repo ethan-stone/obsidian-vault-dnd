@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Orialis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Orialis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia Red Light District.md",
+                "file": "Orialis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia Red Light District.md"
+                "file": "Orialis.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9937b9cd83ac29dc",
   "lastOpenFiles": [
+    "Ophira.md",
+    "Fantasia Red Light District.md",
     "To-Do.md",
     "Overview.md",
-    "Fantasia Red Light District.md",
     "Fantasia.md",
     "Moonstone Casino.md",
     "Malphos.md",
@@ -164,7 +165,6 @@
     "Infernal Order.md",
     "Valley of Frostheart.md",
     "Orialis.md",
-    "Ophira.md",
     "Arcanor.md"
   ]
 }
