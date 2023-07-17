@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orialis.md",
+                "file": "Valley of Frostheart.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orialis.md",
+                "file": "Valley of Frostheart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orialis.md",
+                "file": "Valley of Frostheart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orialis.md"
+                "file": "Valley of Frostheart.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "9937b9cd83ac29dc",
   "lastOpenFiles": [
+    "Celestria (Country).md",
+    "Orialis.md",
     "Ophira.md",
     "Fantasia Red Light District.md",
     "To-Do.md",
@@ -157,14 +159,12 @@
     "Malphos.md",
     "Untitled",
     "Celestria (Hero).md",
-    "Celestria (Country).md",
     "Etheria.md",
     "Horns of Malphos.md",
     "Helpful Tools.md",
     "Deephaven.md",
     "Infernal Order.md",
     "Valley of Frostheart.md",
-    "Orialis.md",
     "Arcanor.md"
   ]
 }
