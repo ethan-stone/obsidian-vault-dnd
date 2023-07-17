@@ -1,1 +1,1 @@
-Large body of water west of [[Valley of Frostheart]]. It get
+Large body of water west of [[Valley of Frostheart]]. It get's it's name because 
