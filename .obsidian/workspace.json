@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 0.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 0.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 0.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "2d75521c8c3cac15",
   "lastOpenFiles": [
-    "Ember Sea.md",
     "Session 0.md",
+    "Ember Sea.md",
     "Fantasia.md",
     "Untitled.canvas",
     "Fantasia Red Light District.md",
