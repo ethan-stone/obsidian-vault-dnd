@@ -35,12 +35,8 @@
             "id": "2d75521c8c3cac15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session 0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,8 +165,9 @@
   },
   "active": "2d75521c8c3cac15",
   "lastOpenFiles": [
-    "Ember Sea.md",
+    "Untitled.canvas",
     "Session 0.md",
+    "Ember Sea.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
     "Orialis.md",
