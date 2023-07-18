@@ -35,8 +35,12 @@
             "id": "2d75521c8c3cac15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fantasia.md"
+              }
             }
           }
         ]
@@ -166,16 +174,16 @@
   "active": "2d75521c8c3cac15",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Fantasia.md",
+    "Fantasia Red Light District.md",
     "Session 0.md",
     "Ember Sea.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
     "Orialis.md",
     "Ophira.md",
-    "Fantasia Red Light District.md",
     "To-Do.md",
     "Overview.md",
-    "Fantasia.md",
     "Moonstone Casino.md",
     "Malphos.md",
     "Untitled",
