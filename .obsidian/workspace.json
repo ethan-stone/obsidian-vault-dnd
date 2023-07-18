@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia.md",
+                "file": "Moonstone Casino.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia.md",
+                "file": "Moonstone Casino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia.md",
+                "file": "Moonstone Casino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia.md"
+                "file": "Moonstone Casino.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
+    "Fantasia.md",
     "Moonstone Casino.md",
     "Deephaven.md",
     "Ember Sea.md",
-    "Fantasia.md",
     "Fantasia Red Light District.md",
     "Arcanor.md",
     "Ophira.md",
