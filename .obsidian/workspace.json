@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcanor.md",
+                "file": "Fantasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcanor.md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcanor.md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arcanor.md"
+                "file": "Fantasia.md"
               }
             }
           }
@@ -161,21 +161,21 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
-    "Ophira.md",
+    "Moonstone Casino.md",
+    "Deephaven.md",
+    "Ember Sea.md",
+    "Fantasia.md",
+    "Fantasia Red Light District.md",
     "Arcanor.md",
+    "Ophira.md",
     "Infernal Order.md",
     "Helpful Tools.md",
     "Overview.md",
-    "Moonstone Casino.md",
     "Cosmic Crossway.md",
     "Celestria (Country).md",
     "Horns of Malphos.md",
-    "Ember Sea.md",
-    "Deephaven.md",
     "To-Do.md",
-    "Fantasia Red Light District.md",
     "Session 0.md",
-    "Fantasia.md",
     "Celestria (Hero).md",
     "Valley of Frostheart.md",
     "Malphos.md",
