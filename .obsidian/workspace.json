@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0.md",
+                "file": "Ember Sea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4da386cdef2b089c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmic Crossway.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 0.md",
+                "file": "Cosmic Crossway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 0.md",
+                "file": "Cosmic Crossway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 0.md"
+                "file": "Cosmic Crossway.md"
               }
             }
           }
@@ -146,18 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d75521c8c3cac15",
+  "active": "4da386cdef2b089c",
   "lastOpenFiles": [
-    "Moonstone Casino.md",
-    "Fantasia Red Light District.md",
     "Ember Sea.md",
+    "Cosmic Crossway.md",
+    "Deephaven.md",
+    "To-Do.md",
+    "Fantasia Red Light District.md",
+    "Session 0.md",
+    "Moonstone Casino.md",
     "Fantasia.md",
     "Overview.md",
-    "Session 0.md",
-    "Deephaven.md",
     "Celestria (Hero).md",
     "Helpful Tools.md",
-    "To-Do.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
     "Arcanor.md",
