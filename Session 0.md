@@ -5,4 +5,4 @@
 - [x] How long of a campaign do we want? 6 months? Up to a certain level? etc.
 
 - Players will meet first session. They don't know each other.
-- Eldrich horror is 
+- Fay 
