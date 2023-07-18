@@ -1,1 +1,1 @@
-Connects the land between [[Etheria]] and [[Fa]]
+Connects the land between [[Etheria]] and [[Fantasia]]. It is only active at night and there are a series of towers with shops and hotels to stay in during the day time. There are a seri
