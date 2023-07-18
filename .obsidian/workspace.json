@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Fantasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Hero).md"
+                "file": "Fantasia.md"
               }
             }
           }
@@ -173,25 +173,25 @@
   },
   "active": "2d75521c8c3cac15",
   "lastOpenFiles": [
-    "Celestria (Country).md",
+    "Session 0.md",
+    "Fantasia.md",
     "Ember Sea.md",
+    "Fantasia Red Light District.md",
+    "To-Do.md",
     "Moonstone Casino.md",
+    "Celestria (Country).md",
+    "Helpful Tools.md",
+    "Celestria (Hero).md",
     "Orialis.md",
     "Ophira.md",
     "Arcanor.md",
     "Overview.md",
-    "Fantasia Red Light District.md",
-    "Session 0.md",
-    "Fantasia.md",
     "Untitled.canvas",
     "Valley of Frostheart.md",
-    "To-Do.md",
     "Malphos.md",
     "Untitled",
-    "Celestria (Hero).md",
     "Etheria.md",
     "Horns of Malphos.md",
-    "Helpful Tools.md",
     "Deephaven.md",
     "Infernal Order.md"
   ]
