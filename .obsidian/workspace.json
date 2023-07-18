@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moonstone Casino.md",
+                "file": "Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moonstone Casino.md",
+                "file": "Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moonstone Casino.md",
+                "file": "Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moonstone Casino.md"
+                "file": "Session 0.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "2d75521c8c3cac15",
   "lastOpenFiles": [
+    "Moonstone Casino.md",
     "Fantasia Red Light District.md",
     "Ember Sea.md",
     "Fantasia.md",
@@ -184,7 +185,6 @@
     "To-Do.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
-    "Moonstone Casino.md",
     "Arcanor.md",
     "Ophira.md",
     "Infernal Order.md",
