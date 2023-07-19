@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nebula Crown.md",
+                "file": "Deephaven.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nebula Crown.md",
+                "file": "Deephaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nebula Crown.md",
+                "file": "Deephaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nebula Crown.md"
+                "file": "Deephaven.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
-    "Deephaven.md",
+    "Ophira.md",
     "Nebula Crown.md",
+    "Deephaven.md",
     "Horns of Malphos.md",
     "Celestria (Hero).md",
     "Cosmic Crossway.md",
@@ -161,7 +162,6 @@
     "Malphos.md",
     "Session 0.md",
     "Etheria.md",
-    "Ophira.md",
     "Arcanor.md",
     "Infernal Order.md",
     "Orialis.md",
