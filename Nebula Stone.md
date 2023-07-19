@@ -1,0 +1,1 @@
+Housed in the Fey Wild [[Deephaven]]. It is a powerful stone that was used as a last ditch effort to defend [[Deephaven]] from [[Malphos]]. It is current

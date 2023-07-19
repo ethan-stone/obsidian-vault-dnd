@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Nebula Stone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Nebula Stone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Nebula Stone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Hero).md"
+                "file": "Nebula Stone.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
-    "Nebula Crown.md",
     "Deephaven.md",
+    "Nebula Stone.md",
     "Horns of Malphos.md",
+    "Celestria (Hero).md",
     "Overview.md",
     "Helpful Tools.md",
     "Cosmic Crossway.md",
     "Etheria.md",
     "Celestria (Country).md",
     "Ophira.md",
-    "Celestria (Hero).md",
     "Ember Sea.md",
     "Fantasia.md",
     "Moonstone Casino.md",
