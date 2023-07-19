@@ -1,3 +1,3 @@
-Legendary underground city to the south east of [[Celestria (Country)]] in [[Valley of Frostheart]]. Contains one of the [[Horns of Malphos]]. Legend says that is has existed for thousands of years even before [[Malphos]]. It was supposedly discovered by the civilization to the south east so they could hide from [[Malphos]], however they were too late and [[Malphos]] was able to destroy them, so the entrance was lost.
+Legendary underground city to the south east of [[Celestria (Country)]] in [[Valley of Frostheart]]. Contains one of the [[Horns of Malphos]]. Legend says that is has existed for thousands of years even before [[Malphos]]. It was a Fey 
 
 It is also a location of a portal to the Fey Wild and houses Nebula Crown to seal the [[Malphos]].
