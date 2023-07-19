@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Nebula Crown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Nebula Crown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Nebula Crown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horns of Malphos.md"
+                "file": "Nebula Crown.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
-    "Overview.md",
     "Horns of Malphos.md",
+    "Overview.md",
     "Helpful Tools.md",
     "Cosmic Crossway.md",
     "Etheria.md",
