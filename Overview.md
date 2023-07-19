@@ -16,3 +16,5 @@ If the players choose not to go back to the Valley of Frostheart there should be
     - Venture to other kingdoms where they may encounter struggling villages they want to help
     - Work for the kingdom for either other search and rescues, or maybe to recover lost goods from bandits etc.
     - Maybe a coliseum like place where you can enter to fight beasts or maybe it can be groups vs groups. Capture the flag?
+
+- Faeries are going to be somewhat uncommon in Orialis
