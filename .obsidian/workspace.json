@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Nebula Crown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Nebula Crown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Nebula Crown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deephaven.md"
+                "file": "Nebula Crown.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
-    "Overview.md",
     "Deephaven.md",
+    "Overview.md",
+    "Helpful Tools.md",
+    "Cosmic Crossway.md",
     "Horns of Malphos.md",
     "Celestria (Hero).md",
     "Ember Sea.md",
     "Fantasia.md",
     "Moonstone Casino.md",
     "Session 0.md",
-    "Cosmic Crossway.md",
     "Nebula Crown.md",
     "Ophira.md",
-    "Helpful Tools.md",
     "Fantasia Red Light District.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
