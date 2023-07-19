@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmic Crossway.md"
+                "file": "Session 0.md"
               }
             }
           }
@@ -161,7 +161,12 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
+    "Cosmic Crossway.md",
     "Session 0.md",
+    "Fantasia Red Light District.md",
+    "Celestria (Hero).md",
+    "Valley of Frostheart.md",
+    "Celestria (Country).md",
     "Horns of Malphos.md",
     "Etheria.md",
     "Helpful Tools.md",
@@ -171,16 +176,11 @@
     "Infernal Order.md",
     "Orialis.md",
     "Moonstone Casino.md",
-    "Cosmic Crossway.md",
     "Ember Sea.md",
     "Fantasia.md",
     "Deephaven.md",
     "To-Do.md",
-    "Fantasia Red Light District.md",
-    "Celestria (Country).md",
-    "Valley of Frostheart.md",
     "Overview.md",
-    "Celestria (Hero).md",
     "Untitled.canvas",
     "Untitled"
   ]
