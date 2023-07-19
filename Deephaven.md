@@ -1,3 +1,3 @@
 Legendary underground city to the south east of [[Celestria (Country)]] in [[Valley of Frostheart]]. Contains one of the [[Horns of Malphos]]. Legend says that is has existed for thousands of years even before [[Malphos]]. It was a Faerie safe haven in times of crisis. [[Malphos]] attacked it during his wrath. He caused mass casualties, but [[Celestria (Hero)]] was able to barely fight him off, breaking off one of his horns ([[Horns of Malphos]]). The entrance to the Fey Wild was destroyed however, and eventually it was abandoned because of the damage.
 
-Since it has been abandoned, the beasts that long ago lived peacefully amongst the citizens of the city have evolved with the 
+Since it has been abandoned, the beasts that long ago lived peacefully amongst the citizens of the city have evolved to be very hostile and savage.
