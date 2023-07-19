@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Deephaven.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Deephaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Deephaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Hero).md"
+                "file": "Deephaven.md"
               }
             }
           }
@@ -161,16 +161,16 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
+    "Celestria (Hero).md",
+    "Fantasia Red Light District.md",
+    "Cosmic Crossway.md",
+    "Horns of Malphos.md",
     "Deephaven.md",
     "Ember Sea.md",
-    "Cosmic Crossway.md",
     "Valley of Frostheart.md",
     "Celestria (Country).md",
-    "Celestria (Hero).md",
     "Malphos.md",
-    "Fantasia Red Light District.md",
     "Session 0.md",
-    "Horns of Malphos.md",
     "Etheria.md",
     "Helpful Tools.md",
     "Ophira.md",
