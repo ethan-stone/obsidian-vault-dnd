@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0.md",
+                "file": "Cosmic Crossway.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 0.md",
+                "file": "Cosmic Crossway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 0.md",
+                "file": "Cosmic Crossway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 0.md"
+                "file": "Cosmic Crossway.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
+    "Session 0.md",
     "Horns of Malphos.md",
     "Etheria.md",
     "Helpful Tools.md",
@@ -171,7 +172,6 @@
     "Orialis.md",
     "Moonstone Casino.md",
     "Cosmic Crossway.md",
-    "Session 0.md",
     "Ember Sea.md",
     "Fantasia.md",
     "Deephaven.md",
