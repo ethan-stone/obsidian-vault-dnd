@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Deephaven.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Deephaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Deephaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horns of Malphos.md"
+                "file": "Deephaven.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
+    "Horns of Malphos.md",
     "Celestria (Hero).md",
     "Deephaven.md",
     "Ember Sea.md",
@@ -157,7 +158,6 @@
     "Cosmic Crossway.md",
     "Nebula Crown.md",
     "Ophira.md",
-    "Horns of Malphos.md",
     "Helpful Tools.md",
     "Fantasia Red Light District.md",
     "Valley of Frostheart.md",
