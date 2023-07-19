@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Celestria (Hero).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Celestria (Hero).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Celestria (Hero).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Celestria (Hero).md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "c2101e77ebd5cba8",
   "lastOpenFiles": [
+    "Overview.md",
     "Nebula Stone.md",
     "Deephaven.md",
     "Horns of Malphos.md",
     "Celestria (Hero).md",
-    "Overview.md",
     "Helpful Tools.md",
     "Cosmic Crossway.md",
     "Etheria.md",
