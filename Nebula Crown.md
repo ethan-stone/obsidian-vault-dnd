@@ -1,1 +1,1 @@
-Housed in the Fey Wild 
+Housed in the Fey Wild [[Deephaven]]. It is a very powerful artifact that [[Celestria (Hero)]] used to seal [[Malphos]]. After 
