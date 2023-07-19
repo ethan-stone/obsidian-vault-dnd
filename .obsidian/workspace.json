@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horns of Malphos.md",
+                "file": "Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horns of Malphos.md"
+                "file": "Session 0.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "4da386cdef2b089c",
   "lastOpenFiles": [
+    "Horns of Malphos.md",
     "Etheria.md",
     "Helpful Tools.md",
     "Malphos.md",
@@ -173,7 +174,6 @@
     "Session 0.md",
     "Ember Sea.md",
     "Fantasia.md",
-    "Horns of Malphos.md",
     "Deephaven.md",
     "To-Do.md",
     "Fantasia Red Light District.md",
