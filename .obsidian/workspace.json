@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Stormcloak Brigade.md",
+                "file": "Balasar Stormrider.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Stormcloak Brigade.md",
+                "file": "Stormcloak Brigade.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Stormcloak Brigade.md",
+                "file": "Balasar Stormrider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Stormcloak Brigade.md",
+                "file": "Balasar Stormrider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Stormcloak Brigade.md"
+                "file": "Balasar Stormrider.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "a1e79f157136e463",
   "lastOpenFiles": [
+    "Stormcloak Brigade.md",
     "Balasar Stormrider.md",
-    "The Stormcloak Brigade.md",
     "Session 1.md",
     "Celestria (Hero).md",
     "Overview.md",

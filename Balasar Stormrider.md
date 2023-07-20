@@ -1,1 +1,1 @@
-Leader of the 
+Leader and creator of [[Stormcloak Brigade]]. 
