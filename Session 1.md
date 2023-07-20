@@ -1,5 +1,6 @@
 # Settings
-We are in [[Etheria]]. The 
+We are in [[Etheria]]. The Solstice Festival is in full swing. It is a celebration of the 
+
 There is a festival and there is a big area for people looking for work.
 
 Eli's character is in line for a swords guild he has previously done work for. While not uninterested in doing work for them again, he is actually looking for answers.
