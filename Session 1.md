@@ -1,5 +1,5 @@
 # Settings
-We are in [[Etheria]]. The Solstice Festival is in full swing. It is the a celebration of the Sun on the day with the most sunlight in the year. There's food, games, 
+We are in [[Etheria]]. The Solstice Festival is in full swing. It is the a celebration of the Sun on the day with the most sunlight in the year. The entire central circle is PACKED with dozens of stands offering food, games and work.
 
 There is a festival and there is a big area for people looking for work.
 
