@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "807fe3fc8ef56dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1e79f157136e463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Balasar Dawnblade.md",
+                "file": "Balasar Stormrider.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Balasar Stormrider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Balasar Stormrider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Balasar Stormrider.md"
               }
             }
           }
@@ -171,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27265d19aec400b1",
+  "active": "a1e79f157136e463",
   "lastOpenFiles": [
-    "Balasar Dawnblade.md",
     "Untitled.md",
+    "Balasar Stormrider.md",
     "Session 1.md",
     "Celestria (Hero).md",
     "Overview.md",
