@@ -1,5 +1,5 @@
 # Settings
-We are in [[Etheria]]. The Solstice Festival is in full swing. It is a celebration of the 
+We are in [[Etheria]]. The Solstice Festival is in full swing. It is a celebration of the the Sun. Even though 
 
 There is a festival and there is a big area for people looking for work.
 
