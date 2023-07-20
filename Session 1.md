@@ -1,5 +1,5 @@
 # Settings
-We are in [[Etheria]]. The Solstice Festival is in full swing. 
+We are in [[Etheria]]. The Solstice Festival is in full swing. I 
 
 There is a festival and there is a big area for people looking for work.
 
