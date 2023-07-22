@@ -7,5 +7,6 @@ Eli's character is in line for the [[Stormcloak Brigade]] which he has previousl
 # Tieraney's Characters Intro
 Tieraney's character is looking at trinkets.
 
-# Madi's Characters Intro
+# Luna Crowclaw Intro
 Eventually Madi's character, Luna Crowclaw, is introduced. Having skills in thievery, she is always on the lookout for an easy steal and other thieves and other mischief. She at some point notices in an ally way a beast owner tied up. The beasts are enraged, clearly looking for blood, and there is a hooded figure releasing them.
+
