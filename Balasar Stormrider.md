@@ -1,1 +1,1 @@
-Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]. Before they were
+Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]. When Eli's character and [[Enzlo]] did the job for the [[So]]
