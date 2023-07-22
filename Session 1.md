@@ -2,7 +2,7 @@
 We are in [[Etheria]]. The Solstice Festival is in full swing. It is the a celebration of the Sun on the day with the most sunlight in the year. The entire central circle is PACKED with dozens of stands offering food, games and work.
 
 # Eli's Characters Intro
-Eli's character is in line for the [[Stormcloak Brigade]] which he has previously done work for. While not uninterested in doing work for them again, he is actually looking for answers.
+Eli's character is in line for the [[Stormcloak Brigade]] which he has previously done work for. While not uninterested in doing work for them again, he is actually looking for answers. The person he speaks with is [[Ba]]
 
 # Tieraney's Characters Intro
 Tieraney's character is looking at trinkets.
