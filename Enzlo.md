@@ -1,1 +1,1 @@
-Character associated with Eli's character. He picked up Eli's character 
+A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic.
