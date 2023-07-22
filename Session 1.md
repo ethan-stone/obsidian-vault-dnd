@@ -1,4 +1,4 @@
-# Settings
+# Setting
 We are in [[Etheria]]. The Solstice Festival is in full swing. It is the a celebration of the Sun on the day with the most sunlight in the year. The entire central circle is PACKED with dozens of stands offering food, games and work.
 
 # Eli's Characters Intro
