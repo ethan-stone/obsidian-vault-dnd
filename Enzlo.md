@@ -1,1 +1,1 @@
-A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic.
+A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic. After 
