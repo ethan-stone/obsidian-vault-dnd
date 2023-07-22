@@ -1,1 +1,3 @@
 A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic. While exploring an ancient tomb that worshiped some outer gods, a magical explosion happened. He has a pact with the Raven Queen to never age, which was revealed in the afterlife of Eli's character after he was killed in the explosion. 
+
+Enzlo simply wants to go home. What that means is that he far older than what he
