@@ -1,1 +1,1 @@
-Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]. When Eli's character and [[Enzlo]] did the job for the [[So]]
+Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]. When Eli's character and [[Enzlo]] did the job for the [[Stormcloak Brigade]], [[Enzlo]] and Balasar had a conversation. Eventually it was brought up that [[Enzlo]] needed to "right some wrongs"
