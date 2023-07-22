@@ -1,1 +1,1 @@
-Character associated with Eli's character. He pickedup E
+Character associated with Eli's character. He picked up Eli's character 
