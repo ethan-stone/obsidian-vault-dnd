@@ -1,0 +1,1 @@
+Character associated with Eli's character. He pickedup E
