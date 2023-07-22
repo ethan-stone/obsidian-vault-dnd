@@ -11,28 +11,11 @@
             "id": "08c71d512440319d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Balasar Stormrider.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff74c1224da5accc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enzlo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enzlo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enzlo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Enzlo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff74c1224da5accc",
+  "active": "08c71d512440319d",
   "lastOpenFiles": [
     "Balasar Stormrider.md",
+    "Celestria (Country).md",
     "Enzlo.md",
     "Session 1.md",
     "Stormcloak Brigade.md",
@@ -173,7 +153,6 @@
     "Helpful Tools.md",
     "Cosmic Crossway.md",
     "Etheria.md",
-    "Celestria (Country).md",
     "Ophira.md",
     "Ember Sea.md",
     "Fantasia.md",
