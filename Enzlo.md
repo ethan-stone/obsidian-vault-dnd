@@ -1,1 +1,1 @@
-A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic. After 
+A traveling spell blade that took Eli's character on the road after sensing Eli's character's magic. While exploring an ancient tomb that worshiped some outer gods, a magical explosion happened
