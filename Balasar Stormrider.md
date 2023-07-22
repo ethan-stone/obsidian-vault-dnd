@@ -1,1 +1,1 @@
-Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]
+Leader and creator of the [[Stormcloak Brigade]]. He has some information on [[Enzlo]]. Before they were
