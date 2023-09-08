@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Etheria.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Etheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Etheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deephaven.md"
+                "file": "Etheria.md"
               }
             }
           }
@@ -161,17 +161,17 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Celestria (Hero).md",
+    "Deephaven.md",
     "Horns of Malphos.md",
     "Cosmic Crossway.md",
     "Enzlo.md",
-    "Celestria (Hero).md",
     "Nebula Stone.md",
     "Session 1.md",
     "Balasar Stormrider.md",
     "Celestria (Country).md",
     "Stormcloak Brigade.md",
     "Overview.md",
-    "Deephaven.md",
     "Helpful Tools.md",
     "Etheria.md",
     "Ophira.md",
