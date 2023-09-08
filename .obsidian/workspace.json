@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Deephaven.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Deephaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Deephaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmic Crossway.md"
+                "file": "Deephaven.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Horns of Malphos.md",
+    "Cosmic Crossway.md",
     "Enzlo.md",
     "Celestria (Hero).md",
     "Nebula Stone.md",
@@ -170,9 +172,7 @@
     "Stormcloak Brigade.md",
     "Overview.md",
     "Deephaven.md",
-    "Horns of Malphos.md",
     "Helpful Tools.md",
-    "Cosmic Crossway.md",
     "Etheria.md",
     "Ophira.md",
     "Ember Sea.md",
