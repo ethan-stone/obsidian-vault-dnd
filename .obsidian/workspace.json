@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa778c979c4aebff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "Etheria.md"
               }
             }
+          },
+          {
+            "id": "6762b2a8e5416dc5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -146,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b493d6435f7236",
+  "active": "fa778c979c4aebff",
   "lastOpenFiles": [
     "Celestria (Hero).md",
     "Deephaven.md",
