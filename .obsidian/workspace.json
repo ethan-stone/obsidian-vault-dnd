@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etheria.md",
+                "file": "Fantasia.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa778c979c4aebff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etheria.md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etheria.md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etheria.md"
+                "file": "Fantasia.md"
               }
             }
           },
@@ -146,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,22 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa778c979c4aebff",
+  "active": "e5b493d6435f7236",
   "lastOpenFiles": [
-    "Celestria (Hero).md",
+    "Ophira.md",
     "Deephaven.md",
+    "Nebula Stone.md",
+    "Session 1.md",
+    "Etheria.md",
+    "Celestria (Hero).md",
     "Horns of Malphos.md",
     "Cosmic Crossway.md",
     "Enzlo.md",
-    "Nebula Stone.md",
-    "Session 1.md",
     "Balasar Stormrider.md",
     "Celestria (Country).md",
     "Stormcloak Brigade.md",
     "Overview.md",
     "Helpful Tools.md",
-    "Etheria.md",
-    "Ophira.md",
     "Ember Sea.md",
     "Fantasia.md",
     "Moonstone Casino.md",
