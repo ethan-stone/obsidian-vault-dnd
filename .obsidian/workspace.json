@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Country).md",
+                "file": "Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Country).md"
+                "file": "Fantasia.md"
               }
             }
           },
@@ -160,13 +160,13 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Celestria (Country).md",
     "Etheria.md",
     "Arcanor.md",
     "Orialis.md",
     "Infernal Order.md",
     "Malphos.md",
     "Valley of Frostheart.md",
-    "Celestria (Country).md",
     "Fantasia Red Light District.md",
     "Ember Sea.md",
     "Fantasia.md",
