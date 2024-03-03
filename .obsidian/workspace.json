@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Fantasia Red Light District.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Fantasia Red Light District.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmic Crossway.md",
+                "file": "Fantasia Red Light District.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmic Crossway.md"
+                "file": "Fantasia Red Light District.md"
               }
             }
           },
@@ -160,10 +160,12 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
-    "Helpful Tools.md",
     "Overview.md",
+    "Stormcloak Brigade.md",
     "Enzlo.md",
+    "Balasar Stormrider.md",
     "Cosmic Crossway.md",
+    "Helpful Tools.md",
     "Etheria.md",
     "Orialis.md",
     "Arcanor.md",
@@ -183,8 +185,6 @@
     "Session 1.md",
     "Celestria (Hero).md",
     "To-Do.md",
-    "Stormcloak Brigade.md",
-    "Balasar Stormrider.md",
     "Untitled.canvas",
     "Untitled"
   ]
