@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Ophira.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Ophira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Ophira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deephaven.md"
+                "file": "Ophira.md"
               }
             }
           },
@@ -160,6 +160,11 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Cosmic Crossway.md",
+    "Ophira.md",
+    "Horns of Malphos.md",
+    "Helpful Tools.md",
+    "Deephaven.md",
     "Fantasia.md",
     "Celestria (Country).md",
     "Etheria.md",
@@ -172,19 +177,14 @@
     "Ember Sea.md",
     "Moonstone Casino.md",
     "Session 0.md",
-    "Ophira.md",
     "Enzlo.md",
     "Session 1.md",
     "Celestria (Hero).md",
-    "Cosmic Crossway.md",
     "Nebula Stone.md",
     "To-Do.md",
     "Overview.md",
     "Stormcloak Brigade.md",
-    "Deephaven.md",
-    "Horns of Malphos.md",
     "Balasar Stormrider.md",
-    "Helpful Tools.md",
     "Untitled.canvas",
     "Untitled"
   ]
