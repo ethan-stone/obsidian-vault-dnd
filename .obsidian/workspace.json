@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Celestria (Hero).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Celestria (Hero).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deephaven.md",
+                "file": "Celestria (Hero).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deephaven.md"
+                "file": "Celestria (Hero).md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Session 1.md",
+    "Deephaven.md",
     "Fantasia Red Light District.md",
     "Overview.md",
     "Stormcloak Brigade.md",
@@ -176,13 +178,11 @@
     "Ember Sea.md",
     "Horns of Malphos.md",
     "Nebula Stone.md",
-    "Deephaven.md",
     "Ophira.md",
     "Celestria (Country).md",
     "Malphos.md",
     "Valley of Frostheart.md",
     "Session 0.md",
-    "Session 1.md",
     "Celestria (Hero).md",
     "To-Do.md",
     "Untitled.canvas",
