@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etheria.md",
+                "file": "Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etheria.md",
+                "file": "Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etheria.md",
+                "file": "Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etheria.md"
+                "file": "Session 0.md"
               }
             }
           },
@@ -160,6 +160,11 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Moonstone Casino.md",
+    "Cosmic Crossway.md",
+    "Nebula Stone.md",
+    "Ophira.md",
+    "Etheria.md",
     "Orialis.md",
     "Infernal Order.md",
     "Malphos.md",
@@ -169,15 +174,10 @@
     "Fantasia Red Light District.md",
     "Ember Sea.md",
     "Fantasia.md",
-    "Nebula Stone.md",
     "Enzlo.md",
     "Session 1.md",
-    "Ophira.md",
     "Overview.md",
-    "Moonstone Casino.md",
-    "Etheria.md",
     "Stormcloak Brigade.md",
-    "Cosmic Crossway.md",
     "Celestria (Country).md",
     "Session 0.md",
     "Deephaven.md",
