@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enzlo.md",
+                "file": "Cosmic Crossway.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enzlo.md",
+                "file": "Cosmic Crossway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enzlo.md",
+                "file": "Cosmic Crossway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enzlo.md"
+                "file": "Cosmic Crossway.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Session 0.md",
+    "Enzlo.md",
     "Session 1.md",
     "Moonstone Casino.md",
-    "Session 0.md",
     "To-Do.md",
     "Overview.md",
     "Fantasia.md",
@@ -173,7 +174,6 @@
     "Celestria (Hero).md",
     "Horns of Malphos.md",
     "Cosmic Crossway.md",
-    "Enzlo.md",
     "Balasar Stormrider.md",
     "Celestria (Country).md",
     "Stormcloak Brigade.md",
