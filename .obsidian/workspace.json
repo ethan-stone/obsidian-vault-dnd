@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Etheria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Etheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Etheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Etheria.md"
               }
             }
           },
@@ -160,31 +160,31 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Orialis.md",
+    "Infernal Order.md",
+    "Malphos.md",
+    "Arcanor.md",
+    "Valley of Frostheart.md",
     "To-Do.md",
     "Fantasia Red Light District.md",
     "Ember Sea.md",
+    "Fantasia.md",
+    "Nebula Stone.md",
+    "Enzlo.md",
+    "Session 1.md",
+    "Ophira.md",
+    "Overview.md",
     "Moonstone Casino.md",
     "Etheria.md",
-    "Orialis.md",
-    "Enzlo.md",
     "Stormcloak Brigade.md",
     "Cosmic Crossway.md",
-    "Nebula Stone.md",
     "Celestria (Country).md",
-    "Malphos.md",
-    "Session 1.md",
     "Session 0.md",
-    "Overview.md",
-    "Fantasia.md",
-    "Ophira.md",
     "Deephaven.md",
     "Celestria (Hero).md",
     "Horns of Malphos.md",
     "Balasar Stormrider.md",
     "Helpful Tools.md",
-    "Valley of Frostheart.md",
-    "Arcanor.md",
-    "Infernal Order.md",
     "Untitled.canvas",
     "Untitled"
   ]
