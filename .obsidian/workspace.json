@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Enzlo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Enzlo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestria (Hero).md",
+                "file": "Enzlo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestria (Hero).md"
+                "file": "Enzlo.md"
               }
             }
           },
@@ -160,13 +160,14 @@
   },
   "active": "e5b493d6435f7236",
   "lastOpenFiles": [
+    "Balasar Stormrider.md",
+    "Enzlo.md",
+    "Celestria (Hero).md",
     "Session 1.md",
     "Deephaven.md",
     "Fantasia Red Light District.md",
     "Overview.md",
     "Stormcloak Brigade.md",
-    "Enzlo.md",
-    "Balasar Stormrider.md",
     "Cosmic Crossway.md",
     "Helpful Tools.md",
     "Etheria.md",
@@ -183,7 +184,6 @@
     "Malphos.md",
     "Valley of Frostheart.md",
     "Session 0.md",
-    "Celestria (Hero).md",
     "To-Do.md",
     "Untitled.canvas",
     "Untitled"
